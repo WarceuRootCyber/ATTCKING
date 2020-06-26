@@ -3,7 +3,7 @@ import socket
 import random
 import sys
 def usage():
-    print "\33[0;32m:::!~!!!!!:.
+    print "\033[1;32m:::!~!!!!!:.
                   .xUHWH!! !!?M88WHX:.
                 .X*#M@$!!  !X!M$$$$$$WWx:.
                :!!!!!!?H! :!$!$$$$$$$$$$8X:
